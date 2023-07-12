@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Elvis</h1>
-<h3 align="center">New grad software engineer and data scientist from Berkeley</h3>
+<h3 align="center">I build things.</h3>
+
+- 🔭 I’m currently working on:
+  - [Pokéstar](https://github.com/ewei068/pokestar), a Pokemon Gacha Discord Bot
+  - The Communcations Platform at Roblox
 
 - 👨‍💻 All of my projects are available at [https://portosaurus.github.io/ewei068](https://portosaurus.github.io/ewei068)
 
 - 📫 Reach me at **ewei068@berkeley.edu**
+
+- 📄 Know about my experiences [https://github.com/ewei068/ewei068/blob/main/Resume.pdf](https://github.com/ewei068/ewei068/blob/main/Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
